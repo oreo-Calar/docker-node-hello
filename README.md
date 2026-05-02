@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # Docker Node.js Hello World
 
 基于 Node.js 18.13.0 的 Web 应用示例，集成 Supervisor 进程管理，以非 root 用户运行，监听 8080 端口，支持 WHO/PORT 环境变量动态配置。
