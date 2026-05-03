@@ -10,6 +10,6 @@
 
 ## 快速启动
 ```bash
-docker pull oreocalar/docker-node-hello:latest
-docker run -d -p 8080:8080 oreocalar/docker-node-hello:latest
+docker pull swr.cn-east-5.myhuaweicloud.com/oreo-calar/docker-node-hello:latest
+docker run -d -p 8080:8080 swr.cn-east-5.myhuaweicloud.com/oreo-calar/docker-node-hello:latest
 curl http://localhost:8080
